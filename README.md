@@ -1,5 +1,4 @@
-# ai-career-workflow
-
+# AI Career Workflow
 I treated my career update like a data project and built this dual-layer architecture to solve the lack of precision in generative tools. As a data analyst with a background in robotics, I designed this system to bridge the gap between complex technical history and strategic job applications while integrating emerging cybersecurity principles for data integrity.
 
 ## System Architecture
