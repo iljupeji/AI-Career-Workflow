@@ -1,0 +1,13 @@
+# AI Career Data Architecture: NotebookLM + Claude
+
+This repository contains a dual-layer methodology to transform scattered career data into high-precision professional profiles.
+
+## Engineering Approach
+As a Data Analyst with a background in Robotics, I designed this workflow following core engineering principles:
+- Grounding (Robotics): Isolating the source of truth from the reasoning engine.
+- Zero Trust (Cybersecurity): Mandatory manual audit to ensure data integrity.
+
+## Workflow Structure
+1. Data Cleaning (NotebookLM): Centralizing IEEE certifications, syllabi, and raw project notes to eliminate noise.
+2. Strategic Reasoning (Claude): Using the synthesized ground truth to adapt the profile to specific job requirements.
+3. Human Audit: Final verification to ensure 100% technical accuracy.
