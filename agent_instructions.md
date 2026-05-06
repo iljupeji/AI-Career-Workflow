@@ -17,7 +17,7 @@
 
 ## Output Requirements
 Each execution must provide:
-1. Optimized CV (following the structure provided by the template provided by the user [name of the template as PDF or Word]).
+1. Optimized CV (following the structure provided by the template "[name of the template as PDF or Word]").
 2. Gap Analysis: Technical skills required vs. current skills.
 3. Roadmap: Project ideas and study topics to bridge identified gaps.
 4. Notion Tracker: A summary ready to be exported (Company, Status, URL, Skills, Application Date).
